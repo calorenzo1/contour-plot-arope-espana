@@ -1,0 +1,181 @@
+Año,Edad_grupo,Sexo,AROPE
+2025,Menores de 16,Hombres,31.5
+2024,Menores de 16,Hombres,33.6
+2023,Menores de 16,Hombres,34.1
+2022,Menores de 16,Hombres,32.4
+2021,Menores de 16,Hombres,32.7
+2020,Menores de 16,Hombres,31.3
+2019,Menores de 16,Hombres,28.2
+2018,Menores de 16,Hombres,27.7
+2017,Menores de 16,Hombres,30.6
+2016,Menores de 16,Hombres,32.3
+2015,Menores de 16,Hombres,34.0
+2014,Menores de 16,Hombres,35.4
+2013,Menores de 16,Hombres,33.4
+2012,Menores de 16,Hombres,30.9
+2011,Menores de 16,Hombres,30.4
+2010,Menores de 16,Hombres,31.7
+2009,Menores de 16,Hombres,32.6
+2008,Menores de 16,Hombres,28.6
+2025,16-29,Hombres,28.9
+2024,16-29,Hombres,28.9
+2023,16-29,Hombres,32.4
+2022,16-29,Hombres,30.0
+2021,16-29,Hombres,32.9
+2020,16-29,Hombres,31.2
+2019,16-29,Hombres,29.7
+2018,16-29,Hombres,30.5
+2017,16-29,Hombres,33.2
+2016,16-29,Hombres,37.1
+2015,16-29,Hombres,39.1
+2014,16-29,Hombres,36.8
+2013,16-29,Hombres,33.9
+2012,16-29,Hombres,33.2
+2011,16-29,Hombres,28.8
+2010,16-29,Hombres,26.4
+2009,16-29,Hombres,22.0
+2008,16-29,Hombres,21.0
+2025,30-44,Hombres,24.6
+2024,30-44,Hombres,25.6
+2023,30-44,Hombres,24.4
+2022,30-44,Hombres,24.4
+2021,30-44,Hombres,26.6
+2020,30-44,Hombres,23.6
+2019,30-44,Hombres,24.2
+2018,30-44,Hombres,23.3
+2017,30-44,Hombres,24.6
+2016,30-44,Hombres,26.7
+2015,30-44,Hombres,28.7
+2014,30-44,Hombres,30.5
+2013,30-44,Hombres,28.6
+2012,30-44,Hombres,28.0
+2011,30-44,Hombres,25.8
+2010,30-44,Hombres,25.6
+2009,30-44,Hombres,22.4
+2008,30-44,Hombres,20.9
+2025,45-64,Hombres,24.1
+2024,45-64,Hombres,24.1
+2023,45-64,Hombres,25.1
+2022,45-64,Hombres,24.1
+2021,45-64,Hombres,26.7
+2020,45-64,Hombres,25.5
+2019,45-64,Hombres,25.3
+2018,45-64,Hombres,27.5
+2017,45-64,Hombres,27.5
+2016,45-64,Hombres,29.9
+2015,45-64,Hombres,30.8
+2014,45-64,Hombres,30.7
+2013,45-64,Hombres,28.5
+2012,45-64,Hombres,27.0
+2011,45-64,Hombres,25.8
+2010,45-64,Hombres,23.4
+2009,45-64,Hombres,21.6
+2008,45-64,Hombres,20.6
+2025,65 y más,Hombres,16.3
+2024,65 y más,Hombres,17.0
+2023,65 y más,Hombres,18.5
+2022,65 y más,Hombres,18.7
+2021,65 y más,Hombres,17.5
+2020,65 y más,Hombres,18.4
+2019,65 y más,Hombres,15.7
+2018,65 y más,Hombres,16.3
+2017,65 y más,Hombres,14.5
+2016,65 y más,Hombres,13.8
+2015,65 y más,Hombres,12.2
+2014,65 y más,Hombres,11.4
+2013,65 y más,Hombres,13.8
+2012,65 y más,Hombres,16.1
+2011,65 y más,Hombres,18.9
+2010,65 y más,Hombres,20.2
+2009,65 y más,Hombres,22.3
+2008,65 y más,Hombres,22.9
+2025,Menores de 16,Mujeres,34.5
+2024,Menores de 16,Mujeres,34.1
+2023,Menores de 16,Mujeres,33.0
+2022,Menores de 16,Mujeres,31.4
+2021,Menores de 16,Mujeres,32.3
+2020,Menores de 16,Mujeres,31.1
+2019,Menores de 16,Mujeres,32.1
+2018,Menores de 16,Mujeres,29.9
+2017,Menores de 16,Mujeres,31.5
+2016,Menores de 16,Mujeres,31.0
+2015,Menores de 16,Mujeres,32.9
+2014,Menores de 16,Mujeres,35.3
+2013,Menores de 16,Mujeres,30.4
+2012,Menores de 16,Mujeres,32.0
+2011,Menores de 16,Mujeres,32.9
+2010,Menores de 16,Mujeres,33.5
+2009,Menores de 16,Mujeres,31.2
+2008,Menores de 16,Mujeres,30.5
+2025,16-29,Mujeres,29.6
+2024,16-29,Mujeres,31.1
+2023,16-29,Mujeres,30.0
+2022,16-29,Mujeres,30.4
+2021,16-29,Mujeres,34.2
+2020,16-29,Mujeres,29.3
+2019,16-29,Mujeres,33.8
+2018,16-29,Mujeres,37.2
+2017,16-29,Mujeres,36.5
+2016,16-29,Mujeres,38.1
+2015,16-29,Mujeres,37.2
+2014,16-29,Mujeres,36.0
+2013,16-29,Mujeres,32.2
+2012,16-29,Mujeres,33.9
+2011,16-29,Mujeres,32.0
+2010,16-29,Mujeres,29.1
+2009,16-29,Mujeres,25.2
+2008,16-29,Mujeres,24.7
+2025,30-44,Mujeres,26.8
+2024,30-44,Mujeres,27.8
+2023,30-44,Mujeres,27.4
+2022,30-44,Mujeres,27.0
+2021,30-44,Mujeres,28.0
+2020,30-44,Mujeres,27.7
+2019,30-44,Mujeres,25.2
+2018,30-44,Mujeres,25.5
+2017,30-44,Mujeres,25.5
+2016,30-44,Mujeres,27.4
+2015,30-44,Mujeres,28.3
+2014,30-44,Mujeres,30.2
+2013,30-44,Mujeres,27.5
+2012,30-44,Mujeres,28.0
+2011,30-44,Mujeres,26.2
+2010,30-44,Mujeres,24.2
+2009,30-44,Mujeres,23.4
+2008,30-44,Mujeres,21.8
+2025,45-64,Mujeres,24.9
+2024,45-64,Mujeres,25.2
+2023,45-64,Mujeres,27.0
+2022,45-64,Mujeres,26.4
+2021,45-64,Mujeres,28.5
+2020,45-64,Mujeres,27.3
+2019,45-64,Mujeres,27.0
+2018,45-64,Mujeres,27.8
+2017,45-64,Mujeres,28.6
+2016,45-64,Mujeres,31.1
+2015,45-64,Mujeres,31.1
+2014,45-64,Mujeres,31.3
+2013,45-64,Mujeres,29.3
+2012,45-64,Mujeres,27.4
+2011,45-64,Mujeres,25.7
+2010,45-64,Mujeres,24.9
+2009,45-64,Mujeres,23.7
+2008,45-64,Mujeres,22.9
+2025,65 y más,Mujeres,21.0
+2024,65 y más,Mujeres,21.4
+2023,65 y más,Mujeres,23.1
+2022,65 y más,Mujeres,23.3
+2021,65 y más,Mujeres,21.7
+2020,65 y más,Mujeres,22.2
+2019,65 y más,Mujeres,15.8
+2018,65 y más,Mujeres,18.7
+2017,65 y más,Mujeres,17.8
+2016,65 y más,Mujeres,14.9
+2015,65 y más,Mujeres,14.8
+2014,65 y más,Mujeres,14.0
+2013,65 y más,Mujeres,15.0
+2012,65 y más,Mujeres,16.8
+2011,65 y más,Mujeres,22.9
+2010,65 y más,Mujeres,24.9
+2009,65 y más,Mujeres,27.0
+2008,65 y más,Mujeres,28.7
