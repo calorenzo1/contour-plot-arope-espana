@@ -24,8 +24,4 @@ Se han transformado:
 
 ## Visualizaciones
 
-### Hombres
-![Hombres](contour_hombres.png)
-
-### Mujeres
-![Mujeres](contour_mujeres.png)
+- contour plot.png
